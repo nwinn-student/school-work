@@ -1,0 +1,1 @@
+This is lab activity number 2 for chapter 11 to test reading from a text file.
