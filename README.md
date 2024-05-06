@@ -1,5 +1,5 @@
 # School Work : 2021-2025
-Although the code may not be useable, I hope that it may be of use to some.  Do not expect for the exact same assignments to be used as those within the shown code.  Also note that I have not fixed a majority of the code and that I may have not gotten a 100% on all assignments, proceed with caution.
+Although the code may not be useable, I hope that it may be of use to some.  Do not expect for the exact same assignments to be used as those within the shown code.  Also note that I have not fixed a majority of the issues within the code and that I may have not gotten a 100% on all assignments, proceed with caution.
 
 School: UTC
 
