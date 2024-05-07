@@ -1,0 +1,25 @@
+Conrad:Vest:2706 Hino Parkway:Conrad.Vest@chattstate.edu
+Sharon:Grey:1122 Izumisano Avenue:Sharon.Grey@exchange.com
+Amanada:Gafney:308 Bisling Way:Amanada.Gafney@yahoo.com
+Claire:McAlister:1580 Amroha Loop:Claire.McAlister@gmail.com
+Robert:Wofford:1111 Anapolis Way:Robert.Wofford@hotmail.com
+Fred:Smith:2399 Loja Circle:Fred.Smith@hotmail.com
+Erin:Oglesby:106 Idfu Circle:Erin.Oglesby@exchange.com
+Sally:Shoemaker:2474 Toulan Drive:Sally.Shoemaker@yahoo.com
+Jean:Lumpkin:2857 Okara Avenue:Jean.Lumpkin@google.com
+Jessee:Gruber:1836 Brest Way:Jessee.Gruber@facebook.com
+Leslie:Burleson:1361 Duisberg Lane:Leslie.Burleson@google.com
+Roger:Lombardi:635 Aurora Circle:Roger.Lombardi@yahoo.com
+Joseph:McCarter:1677 Antofagasta Drive:Joseph.McCarter@utc.edu
+Allison:Pitt:272 Santiago Manor:Allison.Pitt@utc.edu
+David:Banda:622 Isesaki Street:David.Banda@chattstate.edu
+James:Larue:1358 Cam Ranh Parkway:James.Larue@chattstate.edu
+Scott:Duggan:942 Fukuyama Parkway:Scott.Duggan@chattstate.edu
+Samantha:Eggleston:838 Joliet Street:Samantha.Eggleston@gmail.com
+Chris:Olvera:2685 Imus Lane:Chris.Olvera@hotmail.com
+Raymond:Hannon:951 Mandaluyong Loop:Raymond.Hannon@facebook.com
+Patricia:Gardiner:2357 Hidalgo Lane:Patricia.Gardiner@hotmail.com
+Craig:Swanson:2873 Korolev Loop:Craig.Swanson@exchange.com
+Russell:Cromwell:1147 Kabul Drive:Russell.Cromwell@gmail.com
+Alicia:Gunderson:1804 Hanoi Drive:Alicia.Gunderson@gmail.com
+Holly:Chisholm:2668 Botshebelo Manor:Holly.Chisholm@facebook.com

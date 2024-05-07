@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <div style="background-color: rgb(51, 51, 51);">
+            <h1>Array Builder</h1>
+        </div>
+
+        <div style='display:block' hidden>
+            <form action="php.php" method="post">
+                <label class="arrayTitle">Rows</label>
+                <input class="arrayTitle" id='aR' name='arrayRow' type="number" 
+			min='1' value='1' onchange="forceAmount(this.id)">
+                    </input>
+                <p></p>
+                <label class="arrayTitle">Columns</label>
+                <input class="arrayTitle" id='aC' name='arrayColumn' type="number" 
+                	min='1' value='1' onchange="forceAmount(this.id)">
+                    </input>
+                <p></p>
+                <label class="arrayTitle">Min Random Value</label>
+                <input class="arrayTitle" id='miR' name='minRandom' type="number" 
+                	value='0' onchange="forceAmount(this.id)">
+                    </input>
+                <p></p>
+                <label class="arrayTitle">Max Random Value</label>
+                <input class="arrayTitle" id='maR' name='maxRandom' type="number" 
+                	value='0' onchange="forceAmount(this.id)">
+                    </input>
+                <p></p>
+		<button class="arrayTitle" id="reset" type="reset">Reset</button>
+                <button class="arrayTitle" id="submit" type="submit">Submit</button>
+            </form>
+        </div>
+        
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+    </body>
+
+</html>

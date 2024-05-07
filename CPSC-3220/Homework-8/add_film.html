@@ -1,0 +1,84 @@
+<!doctype html>
+
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ADD FILM</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <div style="background-color: rgb(51, 51, 51);">
+            <h1>Add Film</h1>
+        </div>
+
+        <div style='display:block' hidden>
+            <form action="add_film.php" method="post">
+                <label class="arrayTitle">Title</label>
+                <input class="arrayTitle" id='title' name='title' type="text"
+			placeholder="Text Here" maxlength='100' required=true>
+                    </input>
+                <p></p>
+                <label class="arrayTitle">Description</label>
+                <input class="arrayTitle" id='description' name='description' type="text"
+			placeholder="Text Here" maxlength='250' required=true>
+                    </input>
+                <p></p>
+                <label class="arrayTitle">Release Year</label>
+                <input class="arrayTitle" id='release_year' name='release_year' type="number" 
+                	value='2000' min="2000" max="2500" required=true>
+                    </input>
+                <p></p>
+                <label class="arrayTitle">Language Id</label>
+                <input class="arrayTitle" id='lang_id' name='lang_id' type="number" 
+                	value='1' min='1' max='6' required=true>
+                    </input>
+                <p></p>
+		<label class="arrayTitle">Rental Duration</label>
+                <input class="arrayTitle" id='rental_duration' name='rental_duration' type="number" 
+                	value='3' min='0' max='12' required=true>
+                    </input>
+                <p></p>
+		<label class="arrayTitle">Rental Rate</label>
+                <input class="arrayTitle" id='rental_rate' name='rental_rate' type="number" 
+                	value='4.99' min='0.99' max='10.99' step='0.01' required=true>
+                    </input>
+                <p></p>
+		<label class="arrayTitle">Length</label>
+                <input class="arrayTitle" id='length' name='length' type="number" 
+                	value='50' min='30' max='200' required=true>
+                    </input>
+                <p></p>
+		<label class="arrayTitle">Replacement Cost</label>
+                <input class="arrayTitle" id='replacement_cost' name='replacement_cost' type="number" 
+                	value='19.99' min='3.99' max='39.99' step='0.01' required=true>
+                    </input>
+                <p></p>
+		<label class="arrayTitle">Rating</label>
+                <select class='arrayTitle' name="rating" id="rating" required=true>
+			<option>G</option>
+			<option>PG</option>
+			<option>PG-13</option>
+			<option>R</option>
+			<option>NC-17</option>
+                </select>
+                <p></p>
+		<label class="arrayTitle">Special Features</label>
+                <select class='arrayTitle' name="spec_features" id="spec_features" required=true>
+			<option>Trailers</option>
+			<option>Commentaries</option>
+			<option>Deleted Scenes</option>
+			<option>Behind the Scenes</option>
+                </select>
+                <p></p>
+                <button class="arrayTitle" id="submit" type="submit">Save</button>
+		<button><a href='manager.html'>Cancel</a></button>
+            </form>
+        </div>
+    </body>
+
+</html>
